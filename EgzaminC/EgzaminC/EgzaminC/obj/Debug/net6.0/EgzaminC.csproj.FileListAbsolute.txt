@@ -1,0 +1,15 @@
+C:\kurs\C#\EgzaminC\EgzaminC\bin\Debug\net6.0\EgzaminC.exe
+C:\kurs\C#\EgzaminC\EgzaminC\bin\Debug\net6.0\EgzaminC.deps.json
+C:\kurs\C#\EgzaminC\EgzaminC\bin\Debug\net6.0\EgzaminC.runtimeconfig.json
+C:\kurs\C#\EgzaminC\EgzaminC\bin\Debug\net6.0\EgzaminC.dll
+C:\kurs\C#\EgzaminC\EgzaminC\bin\Debug\net6.0\EgzaminC.pdb
+C:\kurs\C#\EgzaminC\EgzaminC\obj\Debug\net6.0\EgzaminC.csproj.AssemblyReference.cache
+C:\kurs\C#\EgzaminC\EgzaminC\obj\Debug\net6.0\EgzaminC.GeneratedMSBuildEditorConfig.editorconfig
+C:\kurs\C#\EgzaminC\EgzaminC\obj\Debug\net6.0\EgzaminC.AssemblyInfoInputs.cache
+C:\kurs\C#\EgzaminC\EgzaminC\obj\Debug\net6.0\EgzaminC.AssemblyInfo.cs
+C:\kurs\C#\EgzaminC\EgzaminC\obj\Debug\net6.0\EgzaminC.csproj.CoreCompileInputs.cache
+C:\kurs\C#\EgzaminC\EgzaminC\obj\Debug\net6.0\EgzaminC.dll
+C:\kurs\C#\EgzaminC\EgzaminC\obj\Debug\net6.0\refint\EgzaminC.dll
+C:\kurs\C#\EgzaminC\EgzaminC\obj\Debug\net6.0\EgzaminC.pdb
+C:\kurs\C#\EgzaminC\EgzaminC\obj\Debug\net6.0\EgzaminC.genruntimeconfig.cache
+C:\kurs\C#\EgzaminC\EgzaminC\obj\Debug\net6.0\ref\EgzaminC.dll
